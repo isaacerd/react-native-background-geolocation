@@ -303,6 +303,8 @@
 					"$(SRCROOT)/../../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../../../ios/Pods/Headers/Public/**",
+				    "$(SRCROOT)/../node_modules/react-native-background-geolocation/common",
+
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
